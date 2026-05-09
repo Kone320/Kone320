@@ -59,9 +59,8 @@ alt="Git" />
 </figure>
 
 ------------------------------------------------------------------------
-
 ## 📊 GitHub Stats
 
-![Arouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kone320&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kone320&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kone320&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kone320&layout=compact&theme=tokyonight)
