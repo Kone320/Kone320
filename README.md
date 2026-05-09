@@ -62,8 +62,6 @@ alt="Git" />
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kone320&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Arouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kone320&show_icons=true&theme=radical&cache_seconds=1800)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kone320&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kone320&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kone320&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
