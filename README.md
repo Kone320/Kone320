@@ -71,5 +71,4 @@ Pipeline ETL complet sur données ESG énergie. Déploiement cloud, architecture
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kone320&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kone320&layout=compact&theme=tokyonight&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kone320&show_icons=true&theme=tokyonight&hide=contribs)
