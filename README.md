@@ -1,7 +1,7 @@
 # 👋 Arouna Romeo KONE
 
 **📊 Data Scientist · 📈 Data Analyst · ⚙️ Data Engineer**  
-🎓 M2 Innovation, Marché et Science des Données — Université Paris-Saclay (diplômé sept. 2026)  
+🎓 M2 Innovation, Marché et Science des Données : Université Paris-Saclay (diplômé sept. 2026)  
 📍 Évry (91) · 🟢 Disponible immédiatement · 🚗 Mobile partout en France
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arouna-rom%C3%A9o-kone-b1b7951b9/)
@@ -19,21 +19,21 @@ Mes projets couvrent le Machine Learning sur **5M+ enregistrements**, le déploi
 
 ## 🚀 Projets
 
-### ✈️ Retards aériens — Classification et segmentation de risque
+### ✈️ Retards aériens : Classification et segmentation de risque
 `Python` `XGBoost` `K-means` `Scikit-learn`  
 Classification de retards sur 5M+ enregistrements. Segmentation de profils à risque.  
 AUC 0.93 · Précision 88 %
 
-### 🎯 Segmentation client — Next Best Offer
+### 🎯 Segmentation client : Next Best Offer
 `Python` `K-means RFM` `XGBoost` `Streamlit`  
 Segmentation RFM + modèle de scoring. Interface interactive déployée avec Streamlit.  
 Lift de 2.8 sur le 1er décile.
 
-### 🌿 ESG Data Pipeline — Architecture cloud
+### 🌿 ESG Data Pipeline : Architecture cloud
 `PySpark` `AWS S3` `Onyxia/SSPCloud` `Python`  
 Pipeline ETL complet sur données ESG énergie. Déploiement cloud, architecture reproductible.
 
-### 📡 Haut débit rural — Évaluation de politique publique
+### 📡 Haut débit rural : Évaluation de politique publique
 `Python` `R` `RDD` `GeoPandas` `Folium`  
 Évaluation d'impact (RDD) sur données ARCEP/INSEE. Cartographies thématiques interactives.
 
