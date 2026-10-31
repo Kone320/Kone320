@@ -1,64 +1,75 @@
+# 👋 Arouna Romeo KONE
 
+**📊 Data Scientist · 📈 Data Analyst · ⚙️ Data Engineer**  
+🎓 M2 Innovation, Marché et Science des Données — Université Paris-Saclay (diplômé sept. 2026)  
+📍 Évry (91) · 🟢 Disponible immédiatement · 🚗 Mobile partout en France
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arouna-rom%C3%A9o-kone-b1b7951b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kone320)
 
-# Yo, this is Arouna 👋
+---
 
-🎓 **Master 1 Data & Économie (Data & Transition)**  
-💻 **Aspiring Data Scientist \| Economist in training**  
-📊 Passionné par **la Data Science, l’Économie, et l’IA appliquée à la
-transition écologique**
+## 🧠 Ce que je fais concrètement
 
-------------------------------------------------------------------------
+Je construis des pipelines de données, des modèles prédictifs et des outils d'analyse exploitable.  
+Pendant mon alternance chez **Stat&Géo**, j'ai développé des pipelines Python/SAS en production sur **50 192 zones IRIS** (GLM, segmentation, enrichissement géographique).  
+Mes projets couvrent le Machine Learning sur **5M+ enregistrements**, le déploiement cloud sur **AWS S3/Onyxia**, et l'inférence causale sur données réelles (RDD, Diff-in-Diff).
 
-## 🚀 About Me
+---
 
-- 📈 J’aime analyser les données pour comprendre **les inégalités, la
-  croissance et l’impact du climat sur l’économie**  
-- 🔎 Intéressé par **la recherche empirique**, les méthodes
-  économétriques et l’application des modèles ML en économie  
-- 🌍 Motivé par des projets qui lient **Data Science et enjeux sociétaux
-  (climat, inégalités, développement)**
+## 🚀 Projets
 
-------------------------------------------------------------------------
+### ✈️ Retards aériens — Classification et segmentation de risque
+`Python` `XGBoost` `K-means` `Scikit-learn`  
+Classification de retards sur 5M+ enregistrements. Segmentation de profils à risque.  
+AUC 0.93 · Précision 88 %
 
-## 🌐 Socials
+### 🎯 Segmentation client — Next Best Offer
+`Python` `K-means RFM` `XGBoost` `Streamlit`  
+Segmentation RFM + modèle de scoring. Interface interactive déployée avec Streamlit.  
+Lift de 2.8 sur le 1er décile.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arouna-rom%C3%A9o-kone-b1b7951b9/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kone320)
+### 🌿 ESG Data Pipeline — Architecture cloud
+`PySpark` `AWS S3` `Onyxia/SSPCloud` `Python`  
+Pipeline ETL complet sur données ESG énergie. Déploiement cloud, architecture reproductible.
 
-------------------------------------------------------------------------
+### 📡 Haut débit rural — Évaluation de politique publique
+`Python` `R` `RDD` `GeoPandas` `Folium`  
+Évaluation d'impact (RDD) sur données ARCEP/INSEE. Cartographies thématiques interactives.
 
-## 💻 Tech Stack
+---
 
-### Langages
+## 🛠️ Stack technique
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+**⌨️ Langages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-003865?style=for-the-badge&logo=sas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Science / ML
+**🤖 Machine Learning**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
+**📊 BI et visualisation**
 
-### Visualisation
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logoColor=white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=blue)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)  
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+**☁️ Cloud et infrastructure**
 
-### Outils
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<figure>
-<img
-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"
-alt="Git" />
-<figcaption aria-hidden="true">Git</figcaption>
-</figure>
+---
 
-------------------------------------------------------------------------
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kone320&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kone320&layout=compact&theme=tokyonight)
